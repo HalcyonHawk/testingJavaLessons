@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=QueryString
+comment0.text=\r\n\ Represents\ a\ query\ string,\ such\ as\ "foo\=bar&baz\=1234".\r\n\ See\ https\://en.wikipedia.org/wiki/Query_string\r\n
+comment1.params=data
+comment1.target=QueryString(java.lang.String)
+comment2.params=name
+comment2.target=java.lang.String\ getParameter(java.lang.String)
+comment2.text=\r\n\ Returns\ the\ value\ associated\ with\ a\ parameter\ in\ the\ query\ string,\r\n\ or\ null\ if\ the\ parameter\ does\ not\ exist.\r\n
+comment3.params=name
+comment3.target=boolean\ hasParameter(java.lang.String)
+comment3.text=\r\n\ Determines\ whether\ a\ parameter\ exists\ in\ the\ query\ string.\r\n
+comment4.params=name
+comment4.target=int\ getParameterOffset(java.lang.String)
+comment4.text=\r\n\ Returns\ the\ character\ offset\ of\ the\ start\ of\ a\ parameter's\ name.\r\n\ If\ the\ parameter\ does\ not\ exist,\ -1\ is\ returned.\r\n
+comment5.params=s
+comment5.target=java.lang.String\ decode(java.lang.String)
+comment5.text=\r\n\ Decodes\ a\ URL-encoded\ string.\r\n\ See\ https\://en.wikipedia.org/wiki/Percent-encoding\r\n
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=QueryStringTest
+comment1.params=
+comment1.target=void\ testGetParameter()
+comment2.params=
+comment2.target=void\ testHasParameter()
+comment3.params=
+comment3.target=void\ testGetParameterOffset()
+comment4.params=
+comment4.target=void\ testDecode()
+numComments=5
